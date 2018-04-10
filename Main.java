@@ -4,7 +4,7 @@ public class Main {
         // BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         // String line = br.readLine();
     
-        String str1 = null;
+        String str1 = "Hello, java";
         System.out.println(str1.length());
     }
 }
